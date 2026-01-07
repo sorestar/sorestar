@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello (៸៸¯ᗜ¯៸៸)
+
+I'm Iris, an aspiring game developer / software engineer studying Mathematics in USA. 
+
+I make as much stuff as the languages I speak, and I commit fast.
+
+My favorite project by far is a dining application specified for the highschool that I had attended.
+
+I always try my best to customize everything, but I'm still soaking up all the knowledge.
+
+Thank you for passing by my home 🏠
 
 <!--
 **sorestar/sorestar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
